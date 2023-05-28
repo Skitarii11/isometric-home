@@ -1,6 +1,7 @@
 # Isometric Home with Interactive Objects and Controllable Cat
 
 This project is an interactive web application built using vanilla JavaScript and spline app. It showcases an isometric home environment with various interactive objects and a controllable cat character. Users can explore the virtual home, interact with objects, and navigate the cat character throughout the scene.
+[VISIT](https://skitarii11.github.io/isometric-home/)
 
 ## Features
 
